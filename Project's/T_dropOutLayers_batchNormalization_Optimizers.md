@@ -1,6 +1,6 @@
 # Understanding_How_Things_WORK_LOLLLLLLL
 
-##Dropout_Layers
+## Dropout_Layers
 - Consider them like sudden muscle memory kicks in when there is a sudden action takes place like falling of your beloved Mobile phone lol.
 - So in the vast land of the ML and DL -> we use this drop out to test our model to fill out the gaps by it's own rather than relaying on the whole set of training data it's more like when your father has let go your bicycle is a normal way to test your skills.
 - leeting go of your bicycle in a unknown edge case as what would you do when you have a pot hole is completely new scenario on how to handle the situation with the knowledge you gained so far bicycle riding.
@@ -8,12 +8,12 @@
 - So considering this sometimes -> some neurons dropout by leaving some data out and not allowing the data to be passed from few neurons thus inactivating them.
 
 
-##Batch_Normalization
+## Batch_Normalization
 
 - Imagine there is class full of toddlers and you have been asked to give me what was your favourite thing and get ready for the wide array of answers that you wouldn't even expect like elephant, antman , lion , insect's to space station which could be too complex for our mind to get around isn't it so we should set the range and domain and catagory to easy analysis like if i ask what is your fav choclate that is far more easy to filter and traverse isn't it,
 Same goes for the Batch Normalization bring every data unit into a common ground for better processing of it as the values are in a balanced domain.
 
-##Optimizers
+## Optimizers
 as the name suggest they are needed to optimize few paramters or the data in a specifc way there are few famous optimizers 
 
 1. SGD(Stocastic Gradient Descent): It's good but slow and steady.
